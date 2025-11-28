@@ -6,5 +6,6 @@ package com.mycompany.app;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello Deepanshu! How are you?");
+        System.out.println("Running 2nd commit with Jenkins+Maven");
     }
 }
